@@ -1,5 +1,5 @@
 # Plex-CleanOnDeck
-Simple, interactive bash script which cleans yoru "On deck" plex items.
+Simple, interactive bash script which cleans your "On deck" plex items.
 
 # Usage:
 
