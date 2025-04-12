@@ -3,9 +3,9 @@ Simple, interactive bash script which cleans your "On deck" plex items.
 
 # Usage:
 
-Usage: ./CleanOnDeck.sh <LibrarySectionID>
+Usage: ./CleanOnDeck.sh [LibrarySectionID]
 
-You can get the section ID's by checking the "Get Info" from any media file through Plex, within the XML....
+You can get the section ID's and your Plex Token by checking the "Get Info" from any media file through Plex, within the XML....
 
 
 # Configuration:
